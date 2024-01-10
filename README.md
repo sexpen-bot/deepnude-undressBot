@@ -2,7 +2,7 @@
 
 [SexPen](https://sexpen.cc)，是一款多模块多租户机器人，用户可通过提交Telegram BotToken一键部署私有机器人，当前支持去衣、换脸、仿声、trc靓号等机器人，同时支持WEB以及API调用
 
-## 去衣模块
+## 一键去衣模块
 
 **注：** 支持web、bot、api调用。key为全平台通用，单个去衣Key低至0.1刀以下，单个换脸Key低至0.02
 
