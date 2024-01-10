@@ -1,6 +1,6 @@
 # SexPen BotFather 多租户Bot
 
-[SexPen](https://t.me/SexPenFatherBot)，是一款多模块多租户机器人，用户可通过提交Telegram BotToken一键部署私有机器人，当前支持去衣、换脸、仿声、trc靓号等机器人，同时支持WEB以及API调用
+[SexPen](https://sexpen.cc)，是一款多模块多租户机器人，用户可通过提交Telegram BotToken一键部署私有机器人，当前支持去衣、换脸、仿声、trc靓号等机器人，同时支持WEB以及API调用
 
 ## 一键去衣模块
 
