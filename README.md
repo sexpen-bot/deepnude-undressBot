@@ -35,8 +35,9 @@
 大群主默认拥有返佣权且自动附加10%返佣
 大群主默认按每个大群赠送机器人部署+群监控月卡
 
-###### 更多文档参考：
+###### 更多文档：
+[Telegram SexPen BotFather](https://t.me/SexPenFatherBot)
 
-[TG SexPen BotFather](https://t.me/SexPenFatherBot)
-[交流频道](https://t.me/SexPens)
+###### 交流频道：
+[TG频道](https://t.me/SexPens)
 ---
