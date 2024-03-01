@@ -37,7 +37,6 @@
 
 ###### 更多文档参考：
 
-[Telegram SexPen BotFather](https://t.me/SexPenFatherBot)
-[交流群](https://t.me/SexPenGroup)
-
+[TG SexPen BotFather](https://t.me/SexPenFatherBot)
+[交流频道](https://t.me/SexPens)
 ---
